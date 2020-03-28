@@ -3,7 +3,7 @@ An "About Me" page built using the bootstrap framework.
 
 ## Run
 
-index.html
+index.html or visit https://wesleychen121.github.io/aboutMe/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
