@@ -17,3 +17,21 @@ body {
 .navbar{
   border-radius:0;
 }
+
+.custom-address {
+  padding: 10px;
+}
+
+.card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card{
+  border-radius:0;
+}
+
+.card-img{
+  border-radius:0;
+}
